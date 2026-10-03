@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of gtugablue/flarum-ext-portuguese.** Not for installation: use [Packagist](https://packagist.org/packages/gtugablue/flarum-ext-portuguese) or the [upstream repository](https://github.com/gtugablue/flarum-ext-portuguese).
 
-**0** versions archived · Latest: [`v0.1.0-beta.8`](https://github.com/flarchive/gtugablue-flarum-ext-portuguese/tree/archive/v0.1.0-beta.8) · License: `MIT` · Flarum: `^0.1.0-beta.6`
+**6** versions archived · Latest: [`v0.1.0-beta.8`](https://github.com/flarchive/gtugablue-flarum-ext-portuguese/tree/archive/v0.1.0-beta.8) · License: `MIT` · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.3` | 2015-10-28 | — | [Browse](https://github.com/flarchive/gtugablue-flarum-ext-portuguese/tree/archive/v0.1.0-beta.3) |
+| `v0.1.0-beta.4` | 2015-11-04 | — | [Browse](https://github.com/flarchive/gtugablue-flarum-ext-portuguese/tree/archive/v0.1.0-beta.4) |
+| `v0.1.0-beta.5` | 2016-03-29 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/gtugablue-flarum-ext-portuguese/tree/archive/v0.1.0-beta.5) |
+| `v0.1.0-beta.6` | 2016-10-26 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/gtugablue-flarum-ext-portuguese/tree/archive/v0.1.0-beta.6) |
+| `v0.1.0-beta.7` | 2016-12-18 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/gtugablue-flarum-ext-portuguese/tree/archive/v0.1.0-beta.7) |
+| `v0.1.0-beta.8` | 2016-12-18 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/gtugablue-flarum-ext-portuguese/tree/archive/v0.1.0-beta.8) |
 
 Catalog entry: [packages/gtugablue-flarum-ext-portuguese.json](https://github.com/flarchive/archive-index/blob/main/packages/gtugablue-flarum-ext-portuguese.json)
 
